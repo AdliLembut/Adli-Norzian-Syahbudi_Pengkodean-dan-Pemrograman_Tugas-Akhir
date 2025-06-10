@@ -1,0 +1,11 @@
+Kode_Obat,Nama_Obat,Tanggal_Penjualan,Jumlah_Jual,Harga_Pokok_Penjualan,Harga_Jual,Unit_Penjualan
+OBT001,Paracetamol 500mg,2023-02-05,150,500,750,Tablet
+OBT002,Amoxicillin 500mg,2023-03-20,80,2000,3000,Kapsul
+OBT003,Omeprazole 20mg,2023-04-15,40,1500,2250,Kapsul
+OBT004,Metformin 500mg,2023-05-25,120,800,1200,Tablet
+OBT005,Salbutamol 4mg,2023-06-30,60,1000,1500,Tablet
+OBT001,Paracetamol 500mg,2023-07-15,200,550,800,Tablet
+OBT002,Amoxicillin 500mg,2023-08-10,90,2100,3150,Kapsul
+OBT003,Omeprazole 20mg,2023-09-20,50,1600,2400,Kapsul
+OBT004,Metformin 500mg,2023-10-25,150,850,1275,Tablet
+OBT005,Salbutamol 4mg,2023-11-30,70,1100,1650,Tablet
